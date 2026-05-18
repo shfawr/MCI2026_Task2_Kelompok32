@@ -228,11 +228,13 @@ Project berhasil:
 
 ## DAG Graph
 
-ss graph cb
+<img width="960" height="477" alt="Screenshot 2026-05-18 180816" src="https://github.com/user-attachments/assets/9e3f3016-6bdc-454f-bad7-de2ae5c4e832" />
 
 ## ClickHouse Query
 
-ss query ClickHouse.
+<img width="753" height="367" alt="image" src="https://github.com/user-attachments/assets/0f194ca8-74a1-45de-a6e8-1f93aa6309be" />
+
+<img width="755" height="371" alt="image" src="https://github.com/user-attachments/assets/b91a4453-6533-45b9-a7d7-a37bdafdd1db" />
 
 ## Metabase Dashboard
 
